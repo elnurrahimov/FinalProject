@@ -1,0 +1,19 @@
+.list-coins {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+
+}
+
+.coin {
+ 
+  display: flex;
+  margin-right: 150px;
+  margin-bottom: 25px;
+  
+}
+
+
+.coin:last-child {
+  margin-right: 0;
+}
